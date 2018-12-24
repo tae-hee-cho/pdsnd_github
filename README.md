@@ -1,3 +1,6 @@
+### Editing README.md file
+As part of Step 3, Section 2.
+
 ### Date created
 Include the date you created this project and README file.
 
@@ -12,4 +15,3 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
