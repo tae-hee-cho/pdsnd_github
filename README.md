@@ -1,4 +1,7 @@
 ### Editing README.md file
+As part of Step B, Section 3.
+
+### Editing README.md file
 As part of Step 3, Section 2.
 
 ### Date created
